@@ -3,20 +3,6 @@ import { useState } from 'react';
 // 상품 데이터
 const products = [
   {
-    id: 1,
-    name: '프리미엄 가죽 서류가방',
-    price: 189000,
-    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800',
-    description: '고급 가죽으로 제작된 세련된 디자인의 서류가방입니다.'
-  },
-  {
-    id: 2,
-    name: '미니 크로스백',
-    price: 129000,
-    image: 'https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800',
-    description: '가볍고 실용적인 미니 크로스백입니다.'
-  },
-  {
     id: 3,
     name: '클래식 백팩',
     price: 159000,
